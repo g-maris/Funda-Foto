@@ -4,7 +4,7 @@ FUNDA Dowload Foto's
 Download all hi-res fotos of the selected house
 
 Usage CMD promt:
->fundaGet [<houseUrl>] [<folder>]
+">fundaGet [<houseUrl>] [<folder>]"
 
 houseUrl: e.g. https://www.funda.nl/detail/koop/<city>/<street>/<id>/
 folder  : optional download folder
